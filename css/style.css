@@ -11,3 +11,18 @@
     color: rgb(0, 0, 0);  
     background-color: blueviolet;
 }
+.ursinho {
+    color: blueviolet;   
+}
+.teste{
+    text-shadow: blueviolet 0 0 1em;
+}
+.cardi:hover{
+    box-shadow: blueviolet 0 0 1em;
+}
+.decoracao{
+    text-decoration: none;
+}
+.logo{
+    border-radius: 40px;
+}
