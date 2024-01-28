@@ -10,19 +10,35 @@
     border-color: rgb(110, 11, 150);
     color: rgb(0, 0, 0);  
     background-color: blueviolet;
+    transition: 1s;
 }
 .ursinho {
     color: blueviolet;   
+}
+.hoverz:hover{
+    color: white;
+    text-shadow: blueviolet 0 0 1em;
+    transition: 1s;
 }
 .teste{
     text-shadow: blueviolet 0 0 1em;
 }
 .cardi:hover{
-    box-shadow: blueviolet 0 0 1em;
+    box-shadow: blueviolet 0 0 2em;
+    transition: 0.7s;
 }
 .decoracao{
     text-decoration: none;
 }
 .logo{
     border-radius: 40px;
+}
+.margemi{
+    margin-right: 10px;
+}
+.margemt{
+    margin-left: 10px;
+}
+.margemfooter{
+    margin-top: 220px;
 }
